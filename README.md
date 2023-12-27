@@ -6,12 +6,13 @@ this repo includes lab code of os course
 ## codes
 
  - [introduction](#)
- - [lab2](tree/master/2)
- - [lab3](tree/master/3)
- - [lab4](tree/master/4)
- - [lab5](tree/master/5)
- - [lab6](tree/master/6)
- - [lab7](tree/master/7)
+ - [lab2](/2)
+ - [lab3](/3)
+ - [lab4](/4)
+ - [lab5](/5)
+ - [lab6](/6)
+ - [lab7](/7)
+ - [lab8](/8)
 
 
 
