@@ -17,6 +17,4 @@ this repo includes lab code of os course
 
 ## Appendix
 
-Any additional information goes here
-
   [lab instructions PDF](/OS_LAB_InstructionManual_1398_v02.pdf)
