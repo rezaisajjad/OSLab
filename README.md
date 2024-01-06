@@ -5,7 +5,6 @@ this repo includes lab code of os course
 
 ## codes
 
- - [introduction](#)
  - [lab2](/2)
  - [lab3](/3)
  - [lab4](/4)
@@ -20,4 +19,4 @@ this repo includes lab code of os course
 
 Any additional information goes here
 
-  [lab instructions PDF](/#)
+  [lab instructions PDF](/OS_LAB_InstructionManual_1398_v02.pdf)
